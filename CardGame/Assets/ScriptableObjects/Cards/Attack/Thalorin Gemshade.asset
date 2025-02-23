@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01ca1f04887feb744bdb4e80a5a97d28, type: 3}
+  m_Name: Thalorin Gemshade
+  m_EditorClassIdentifier: 
+  CardName: Thalorin Gemshade
+  ManaCost: 4
+  CardDescription: Thalorin, a half-elf, half-dwarf, was expected to inherit his
+    father's kingdom of mines but was deprived of his right to the throne because
+    of his elf blood. Thalorin embarks on a heroic journey to earn the respect of
+    both elves and dwarves.
+  CardType: 0
+  CardTarget: 0
+  sprite: {fileID: 21300000, guid: 42280968c7841a344a9b763ebfac6f32, type: 3}
+  CardID: 16
+  ParentNetworkObject: {fileID: 0}
+  SoundData:
+  - AudioClip: {fileID: 8300000, guid: 3392f561b89bb8c49a939e90bc1e4707, type: 3}
+    ClipType: 2
+  - AudioClip: {fileID: 8300000, guid: 5674990cfb8d36444ba33ba763efa7e4, type: 3}
+    ClipType: 0
+  - AudioClip: {fileID: 8300000, guid: 164c4cd428e81554a89f938451aae22f, type: 3}
+    ClipType: 1
+  Damage: 2
+  Health: 8
+  ArmorCount: 0

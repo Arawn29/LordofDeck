@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d94421076cbd88b48973131cd30a062b, type: 3}
+  m_Name: Death
+  m_EditorClassIdentifier: 
+  CardName: Death
+  ManaCost: 8
+  CardDescription: This character has captured the Death Fairy and sealed it in a
+    lantern. No matter who stands before them, they can directly take their soul.
+    However, it does not affect Life Points.
+  CardType: 0
+  CardTarget: 0
+  sprite: {fileID: 21300000, guid: 0ec7f617fbf5a864db7eaf8b35e24058, type: 3}
+  CardID: 6
+  ParentNetworkObject: {fileID: 0}
+  SoundData:
+  - AudioClip: {fileID: 8300000, guid: 3392f561b89bb8c49a939e90bc1e4707, type: 3}
+    ClipType: 2
+  - AudioClip: {fileID: 8300000, guid: 610585cfc0ae97a4c9c52fe04c6c3732, type: 3}
+    ClipType: 0
+  - AudioClip: {fileID: 8300000, guid: 5d5f587ae155eb94f867257211a96f5e, type: 3}
+    ClipType: 1
+  Damage: 0
+  Health: 3
+  ArmorCount: 0

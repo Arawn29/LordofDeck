@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3f78daa97602eb47a8f22aebd922e75, type: 3}
+  m_Name: BlackHole
+  m_EditorClassIdentifier: 
+  CardName: Black Hole
+  ManaCost: 12
+  CardDescription: Destroy all cards on the field.
+  CardType: 3
+  CardTarget: 0
+  sprite: {fileID: 21300000, guid: b596c19e35003784c85a0ee3a25b1995, type: 3}
+  CardID: 504
+  ParentNetworkObject: {fileID: 0}
+  SoundData:
+  - AudioClip: {fileID: 8300000, guid: 3392f561b89bb8c49a939e90bc1e4707, type: 3}
+    ClipType: 2
+  - AudioClip: {fileID: 8300000, guid: b5534b8b8cc7f9644982ba7f7293e67b, type: 3}
+    ClipType: 0

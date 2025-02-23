@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf47e22b372ddec4d86b21409540a70d, type: 3}
+  m_Name: Assassin
+  m_EditorClassIdentifier: 
+  CardName: Assassin
+  ManaCost: 5
+  CardDescription: When the Assassin finds their rhythm, they can perform a chain
+    attack. When they kill an enemy, they attack again.
+  CardType: 0
+  CardTarget: 0
+  sprite: {fileID: 21300000, guid: 13ded9fd4f0d09b49999d1fbc03af88f, type: 3}
+  CardID: 2
+  ParentNetworkObject: {fileID: 0}
+  SoundData:
+  - AudioClip: {fileID: 8300000, guid: 3392f561b89bb8c49a939e90bc1e4707, type: 3}
+    ClipType: 2
+  - AudioClip: {fileID: 8300000, guid: dd09997d0848d3a479387bf44ea01e15, type: 3}
+    ClipType: 0
+  - AudioClip: {fileID: 8300000, guid: 97acb63b5c146af42bc67c8ef67dc9ce, type: 3}
+    ClipType: 1
+  - AudioClip: {fileID: 8300000, guid: 160fdb708b67b05499c4006d10440d65, type: 3}
+    ClipType: 0
+  Damage: 6
+  Health: 5
+  ArmorCount: 1

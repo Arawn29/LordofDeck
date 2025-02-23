@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b04f414d65debb4aaeaed0b7e2a3d79, type: 3}
+  m_Name: Draw2Card
+  m_EditorClassIdentifier: 
+  CardName: +2Card
+  ManaCost: 4
+  CardDescription: Draw 2 Card from your deck
+  CardType: 3
+  CardTarget: 0
+  sprite: {fileID: 1158766935, guid: 44a113f4d13c25c46892e98fe521bebd, type: 3}
+  CardID: 505
+  ParentNetworkObject: {fileID: 0}
+  SoundData:
+  - AudioClip: {fileID: 8300000, guid: 25872b200d8c36a4ba4956ec4468caad, type: 3}
+    ClipType: 0
+  drawCount: 2

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a9f25814d17dd8409760ae3b954f51d, type: 3}
+  m_Name: Courage
+  m_EditorClassIdentifier: 
+  CardName: Courage
+  ManaCost: 6
+  CardDescription: Convince your exhausted ally to attack once more.
+  CardType: 3
+  CardTarget: 0
+  sprite: {fileID: 21300000, guid: 3fb641aee2261f94a9e52daf85f15a41, type: 3}
+  CardID: 502
+  ParentNetworkObject: {fileID: 0}
+  SoundData:
+  - AudioClip: {fileID: 8300000, guid: 3392f561b89bb8c49a939e90bc1e4707, type: 3}
+    ClipType: 2
+  - AudioClip: {fileID: 8300000, guid: ceb1e5a8ab3090f43a69fd4c04eb46d8, type: 3}
+    ClipType: 0

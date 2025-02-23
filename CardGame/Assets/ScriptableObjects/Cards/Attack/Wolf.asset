@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c2c476bf9eacab4ba92b02427603dc4, type: 3}
+  m_Name: Wolf
+  m_EditorClassIdentifier: 
+  CardName: Wolf
+  ManaCost: 6
+  CardDescription: Wolf, who couldn't find a worthy opponent among the Otyken tribes,
+    separated from his pack during the Great Migration and is now in search of a
+    worthy rival. He gains +2 health every time he attacks an enemy.
+  CardType: 0
+  CardTarget: 0
+  sprite: {fileID: 21300000, guid: 80293018d470b934b8575d07574f1278, type: 3}
+  CardID: 18
+  ParentNetworkObject: {fileID: 0}
+  SoundData:
+  - AudioClip: {fileID: 8300000, guid: 3392f561b89bb8c49a939e90bc1e4707, type: 3}
+    ClipType: 2
+  - AudioClip: {fileID: 8300000, guid: 5674990cfb8d36444ba33ba763efa7e4, type: 3}
+    ClipType: 0
+  - AudioClip: {fileID: 8300000, guid: 14a883f5f8241cc4ca1f35fe54fef1d2, type: 3}
+    ClipType: 1
+  Damage: 7
+  Health: 6
+  ArmorCount: 1
+  lifeStealAmount: 2

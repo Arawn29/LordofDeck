@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd45c16d1b4b6e94fb587818db6e2001, type: 3}
+  m_Name: Drizzt No'Urden
+  m_EditorClassIdentifier: 
+  CardName: Drizzt No'Urden
+  ManaCost: 8
+  CardDescription: '
+
+    Drizzt Do''Urden is a Dark Elf who represents wisdom. Unlike
+    other Dark Elves, he stands for wisdom and the right path. On the other hand,
+    Drizzt No''Urden sees Do''Urden as a stain on their kind and has set out on a
+    journey to reclaim the loyalty of the Dark Elves.
+
+
+
+
+
+
+
+
+
+'
+  CardType: 0
+  CardTarget: 0
+  sprite: {fileID: 21300000, guid: 9e93ddae883fbf3439fe060b16cb2a77, type: 3}
+  CardID: 8
+  ParentNetworkObject: {fileID: 0}
+  SoundData:
+  - AudioClip: {fileID: 8300000, guid: 3392f561b89bb8c49a939e90bc1e4707, type: 3}
+    ClipType: 2
+  - AudioClip: {fileID: 8300000, guid: 014b31856745e454688290e4ccc689a2, type: 3}
+    ClipType: 0
+  - AudioClip: {fileID: 8300000, guid: aa0be2dc10659d34a98b832d5dde4c6b, type: 3}
+    ClipType: 1
+  Damage: 5
+  Health: 12
+  ArmorCount: 0

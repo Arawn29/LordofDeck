@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01ca1f04887feb744bdb4e80a5a97d28, type: 3}
+  m_Name: Kelaino
+  m_EditorClassIdentifier: 
+  CardName: Kelaino
+  ManaCost: 5
+  CardDescription: Kelaino, one of the Harpie sisters, is one of the deadliest and
+    represents darkness.
+  CardType: 0
+  CardTarget: 0
+  sprite: {fileID: 21300000, guid: 783c8640eff0e5e4a87ab1adf82169c3, type: 3}
+  CardID: 12
+  ParentNetworkObject: {fileID: 0}
+  SoundData:
+  - AudioClip: {fileID: 8300000, guid: 291e0d16d2cebb648a37ab63ea64558a, type: 3}
+    ClipType: 2
+  - AudioClip: {fileID: 8300000, guid: 07e888f29b276404794195b2bf9be42f, type: 3}
+    ClipType: 0
+  - AudioClip: {fileID: 8300000, guid: db55032df8baf334390bbb5ca8f56fcf, type: 3}
+    ClipType: 1
+  Damage: 4
+  Health: 8
+  ArmorCount: 0

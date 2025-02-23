@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffbe577e52551cd46bdcd83ad2b7699f, type: 3}
+  m_Name: Thrud
+  m_EditorClassIdentifier: 
+  CardName: 'Thrud '
+  ManaCost: 8
+  CardDescription: Thrud, the daughter of Thor, may not be as skilled as her father,
+    but she can control lightning. The lightning she creates deals damage to her
+    enemies and affects their nervous systems, preventing them from attacking for
+    one turn.
+  CardType: 0
+  CardTarget: 0
+  sprite: {fileID: 21300000, guid: 3a3856c73e8a78341aa454f6379a398b, type: 3}
+  CardID: 17
+  ParentNetworkObject: {fileID: 0}
+  SoundData:
+  - AudioClip: {fileID: 8300000, guid: 3392f561b89bb8c49a939e90bc1e4707, type: 3}
+    ClipType: 2
+  - AudioClip: {fileID: 8300000, guid: c6753a7c528a07d49bd5b58f26fa80e3, type: 3}
+    ClipType: 0
+  - AudioClip: {fileID: 8300000, guid: 40c1a41aa432bdf46a166423ff5db3ab, type: 3}
+    ClipType: 0
+  - AudioClip: {fileID: 8300000, guid: 8e99630627ca4fd4587b17b69c3e3c00, type: 3}
+    ClipType: 1
+  Damage: 3
+  Health: 12
+  ArmorCount: 0
+  TargetCards: []

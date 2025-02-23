@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01ca1f04887feb744bdb4e80a5a97d28, type: 3}
+  m_Name: Castle
+  m_EditorClassIdentifier: 
+  CardName: Castle
+  ManaCost: 8
+  CardDescription: Castle is a highly durable tank.
+  CardType: 0
+  CardTarget: 0
+  sprite: {fileID: 21300000, guid: 0eb2369667691d34daeeb31cc2e6873c, type: 3}
+  CardID: 4
+  ParentNetworkObject: {fileID: 0}
+  SoundData:
+  - AudioClip: {fileID: 8300000, guid: de595a2db55c06648a3dac473068408d, type: 3}
+    ClipType: 2
+  - AudioClip: {fileID: 8300000, guid: 80502e18f68bb734b9dded7bb8d2e750, type: 3}
+    ClipType: 0
+  - AudioClip: {fileID: 8300000, guid: 164c4cd428e81554a89f938451aae22f, type: 3}
+    ClipType: 1
+  Damage: 2
+  Health: 10
+  ArmorCount: 10

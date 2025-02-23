@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3458ace6afae97440891a46388875b95, type: 3}
+  m_Name: Eryndil
+  m_EditorClassIdentifier: 
+  CardName: Eryndil
+  ManaCost: 6
+  CardDescription: This sword wielder, beaten by the Forest Elves, is granted 7 attack
+    power.
+  CardType: 1
+  CardTarget: 0
+  sprite: {fileID: 21300000, guid: 1328fdac4f9659944ba1f9ef1a937afc, type: 3}
+  CardID: 101
+  ParentNetworkObject: {fileID: 0}
+  SoundData:
+  - AudioClip: {fileID: 8300000, guid: 3392f561b89bb8c49a939e90bc1e4707, type: 3}
+    ClipType: 2
+  - AudioClip: {fileID: 8300000, guid: c5955b1ca51d47245ae5e5e10395d910, type: 3}
+    ClipType: 0
+  ArmorCount: 0
+  attackPowerUpAmount: 7

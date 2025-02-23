@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68364d49bce3f7745b46b4d8f6a815dd, type: 3}
+  m_Name: Drizzt Don'Urden
+  m_EditorClassIdentifier: 
+  CardName: 'Drizzt Don''Urden '
+  ManaCost: 4
+  CardDescription: Unlike his sister, Drizzt Don'Urden does not hate Drizzt Do'Urden.
+    Following in his ancestor's footsteps, he has set out on a journey to guide his
+    sister onto the right path. If he attacks his sister, he directly removes her
+    from the battlefield.
+  CardType: 0
+  CardTarget: 0
+  sprite: {fileID: 21300000, guid: 038f74dc05f834e45a1e388c15c6b15c, type: 3}
+  CardID: 7
+  ParentNetworkObject: {fileID: 0}
+  SoundData:
+  - AudioClip: {fileID: 8300000, guid: 3392f561b89bb8c49a939e90bc1e4707, type: 3}
+    ClipType: 2
+  - AudioClip: {fileID: 8300000, guid: 2ed46ddcc4f7dd549b61957f22cc624d, type: 3}
+    ClipType: 0
+  - AudioClip: {fileID: 8300000, guid: 164c4cd428e81554a89f938451aae22f, type: 3}
+    ClipType: 1
+  Damage: 3
+  Health: 4
+  ArmorCount: 0
